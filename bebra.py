@@ -2,7 +2,7 @@ from datetime import time
 import requests
 
 
-appid = 'aec6ce37f4e56a2d21e7629553a2c5a8'
+appid = 'Your appid'
 
 
 def get_weather(city='Moscow'):
